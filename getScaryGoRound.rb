@@ -1,5 +1,4 @@
 require 'mechanize'
-require 'pry'
 require 'logger'
 require 'zip/zip'
 
